@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/blaketylerfullerton](https://github.com/blaketylerfullerton)
 
-- 💬 Ask me about **Webscraping**
+- 💬 Ask me about **Webscraping / Browser Automation**
 
 - 📫 How to reach me **fullerton199@gmail.com**
 
