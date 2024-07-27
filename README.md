@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blaketylerfullerton&label=Profile%20views&color=0e75b6&style=flat" alt="blaketylerfullerton" /> </p>
 
-- 🔭 I’m currently have my **My bachelors in C.S**
+- 🔭 I currently have my **My bachelors in C.S**
 
 - 👯 I’m looking to collaborate on **Data science projects** / **A.I**
 
