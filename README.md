@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blaketylerfullerton&label=Profile%20views&color=0e75b6&style=flat" alt="blaketylerfullerton" /> </p>
 
-- 🔭 I currently have my **My bachelors in C.S**
+- 🔭 I currently am a Software Engineer
 
-- 👯 I’m looking to collaborate on **Data science projects** / **A.I**
+- 👯 I’m working on AI - Machine Learning
 
 - 👨‍💻 All of my projects are available at [https://github.com/blaketylerfullerton](https://github.com/blaketylerfullerton)
 
-- 💬 Ask me about **Webscraping / Browser Automation**
+- 💬 Ask me about **Webscraping / Browser Automation / AI**
 
 - 📫 How to reach me **fullerton199@gmail.com**
 
