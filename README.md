@@ -18,7 +18,7 @@
 - **Hardware Optimization**: Running ML workloads on local DGX Spark (4x RTX 6000 Ada GPUs)
 
 ### 💡 Areas of Expertise
-```text
+
 🌐 Web Development     → Blazor, C#, .NET 9, Telerik UI
 🤖 AI/ML              → LangChain, NVIDIA Nemotron, Agent Development
 🔧 Automation         → Browser Automation, Web Scraping, Selenium
