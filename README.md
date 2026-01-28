@@ -115,9 +115,5 @@ I've broken more bones around pools than riding dirtbikes 🏍️ 🏊‍♂️
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blaketylerfullerton&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <i>⭐️ From <a href="https://github.com/blaketylerfullerton">Blake Fullerton</a></i>
 </div>
