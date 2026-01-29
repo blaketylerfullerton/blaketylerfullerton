@@ -19,10 +19,9 @@
 
 ### 💡 Areas of Expertise
 
-🌐 Web Development     → Blazor, C#, .NET 9, Telerik UI
-🤖 AI/ML              → LangChain, NVIDIA Nemotron, Agent Development
-🔧 Automation         → Browser Automation, Web Scraping, Selenium
-🗄️ Database          → SQL Server, Stored Procedures, Query Optimization
+🌐 Web Development     → Typescript, NextJS, React, Blazor
+🤖 AI/ML              → LangChain, NVIDIA Nemotron, Agentic Development
+🗄️ Database          → SQL Server, Postgres, Stored Procedures, Query Optimization
 🏗️ Architecture       → Enterprise Systems, Legacy Modernization
 🖥️ Hardware           → DGX Spark, GPU Optimization, Edge AI
 
