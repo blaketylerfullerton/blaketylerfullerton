@@ -15,7 +15,7 @@
 - **Enterprise Modernization**: Leading development on a comprehensive legacy system rewrite from VB6 to modern C# Blazor/.NET 9 stack
 - **AI Agent Development**: Building intelligent agents with LangChain and NVIDIA Nemotron models
 - **MCP Servers**: Creating Model Context Protocol integrations for enhanced AI capabilities
-- **Hardware Optimization**: Running ML workloads on local DGX Spark (4x RTX 6000 Ada GPUs)
+- **Hardware Optimization**: Running ML workloads on local DGX Spark (GB10)
 
 ### 💡 Areas of Expertise
 
