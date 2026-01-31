@@ -10,22 +10,22 @@
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
 - **Enterprise Modernization**: Leading development on a comprehensive legacy system rewrite from VB6 to modern C# Blazor/.NET 9 stack
 - **AI Agent Development**: Building intelligent agents with LangChain and NVIDIA Nemotron models
 - **MCP Servers**: Creating Model Context Protocol integrations for enhanced AI capabilities
 - **Hardware Optimization**: Running ML workloads on local DGX Spark (GB10)
 
-### 💡 Areas of Expertise
+###  Areas of Expertise
 
-🌐 Web Development     → Typescript, NextJS, React, Blazor
-🤖 AI/ML              → LangChain, NVIDIA Nemotron, Agentic Development
-🗄️ Database          → SQL Server, Postgres, Stored Procedures, Query Optimization
-🏗️ Architecture       → Enterprise Systems, Legacy Modernization
-🖥️ Hardware           → DGX Spark, GPU Optimization, Edge AI
+Web Development     → Typescript, NextJS, React, Blazor
+ AI/ML              → LangChain, NVIDIA Nemotron, Agentic Development
+ Database          → SQL Server, Postgres, Stored Procedures, Query Optimization
+ Architecture       → Enterprise Systems, Legacy Modernization
+ Hardware           → DGX Spark, GPU Optimization, Edge AI
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <!-- Languages -->
@@ -78,14 +78,14 @@
   </a>
 </p>
 
-### 🔬 Current Projects
+### Current Projects
 
 - **Everest Modernization**: Enterprise-scale rewrite of HR/Payroll/Finance systems
 - **AI Agent Framework**: Custom agents leveraging NVIDIA technologies
 - **MCP Server Development**: Protocol implementations for AI integration
 - **Local AI Infrastructure**: Optimizing models for DGX Spark deployment
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/blakefullerton/" target="_blank">
@@ -99,7 +99,7 @@
   </a>
 </p>
 
-### 💬 Ask Me About
+### Ask Me About
 
 - Enterprise application modernization and architecture
 - AI agent development and LangChain implementations
@@ -107,7 +107,7 @@
 - GPU-accelerated ML workflows and optimization
 - Blazor and .NET enterprise development
 
-### ⚡ Fun Fact
+###  Fun Fact
 
 I've broken more bones around pools than riding dirtbikes 🏍️ 🏊‍♂️
 
