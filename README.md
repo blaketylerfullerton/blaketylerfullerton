@@ -79,13 +79,7 @@ Web Development     → Typescript, NextJS, React, Blazor
   </a>
 </p>
 
-### Current Projects
-
-- **Everest Modernization**: Enterprise-scale rewrite of HR/Payroll/Finance systems
-- **AI Agent Framework**: Custom agents leveraging NVIDIA technologies
-- **MCP Server Development**: Protocol implementations for AI integration
-- **Local AI Infrastructure**: Optimizing models for DGX Spark deployment
-
+ 
 ### Let's Connect
 
 <p align="left">
@@ -100,20 +94,4 @@ Web Development     → Typescript, NextJS, React, Blazor
   </a>
 </p>
 
-### Ask Me About
-
-- Enterprise application modernization and architecture
-- AI agent development and LangChain implementations
-- Browser automation and web scraping at scale
-- GPU-accelerated ML workflows and optimization
-- Blazor and .NET enterprise development
-
-###  Fun Fact
-
-I've broken more bones around pools than riding dirtbikes 🏍️ 🏊‍♂️
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/blaketylerfullerton">Blake Fullerton</a></i>
-</div>
+ 
